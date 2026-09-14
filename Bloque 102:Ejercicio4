@@ -1,0 +1,8 @@
+basetriangulo = int(input("Introduce la base del triángulo"))
+alturatriangulo = int(input("Intoduce la altura del triángulo"))
+#calcula el area del tríangulo
+print("Área del triángulo",(basetriangulo * alturatriangulo) // 2)
+
+radiocircunferencia = int(input("Introduce el radio de la circunferencia"))
+
+print("Perímetro de la circunferencia",(2 * 3.1416) * radiocircunferencia)
