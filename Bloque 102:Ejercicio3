@@ -1,0 +1,4 @@
+nombre = (input("Introduce tu nombre: "))
+apellido1 = (input("Introduce tu primer apellido: "))
+apellido2 = (input("Introduce tu segundo apellido: "))
+print("El usuario", apellido1 , apellido2,",",nombre, "se ha registrado corectamente")
